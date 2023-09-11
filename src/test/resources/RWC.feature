@@ -12,4 +12,4 @@ Feature: A description
     Then he arrives on the right page
 
   Scenario: B
-  Given
+    Given
