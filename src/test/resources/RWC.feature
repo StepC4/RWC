@@ -1,6 +1,5 @@
 
 
-
 Feature: A description
   Background: The user start on "https://www.rugbyworldcup.com/2023/"
     Given the user is on "https://www.rugbyworldcup.com/2023/"
@@ -12,4 +11,3 @@ Feature: A description
     Then he arrives on the right page
 
   Scenario: B
-    Given
